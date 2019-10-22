@@ -1,0 +1,12 @@
+%h2 Similar Movies
+
+%table.table-striped.col-md-10#movies
+  %thead
+    %tr
+      %th Movie Title
+  %tbody
+    - @movies.each do |movie|
+      %tr
+        %td= movie.title
+        
+= link_to 'Back to movie list', movies_path

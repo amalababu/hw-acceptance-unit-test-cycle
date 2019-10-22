@@ -1,0 +1,19 @@
+luca:
+ id: 1
+ title: Luca
+ rating: R
+ release_date: 2019-07-28
+ director: abc
+
+mayanadhi:    
+ id: 2
+ title: Mayanadhi
+ rating: R
+ release_date: 2017-12-17
+ director: abc
+ 
+niram:
+ id: 3
+ title: Niram
+ rating: R
+ 
