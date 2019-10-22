@@ -1,0 +1,8 @@
+......................
+
+1 deprecation warning total
+
+Finished in 0.15098 seconds (files took 1.71 seconds to load)
+22 examples, 0 failures
+
+Coverage report generated for RSpec to /home/ec2-user/environment/hw-acceptance-unit-test-cycle/rottenpotatoes/coverage. 51 / 57 LOC (89.47%) covered.
